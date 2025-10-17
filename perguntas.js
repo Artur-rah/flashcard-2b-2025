@@ -5,31 +5,31 @@ criaCartao(
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Serie',
+    'Serie cujo os personagens principais são Dean e Sam',
+    'Supernatural'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Jogo',
+    'Nome de um Rato azul que corre rapido',
+    'Sonic'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Jogo',
+    'Nome de italiano gordo que é encanador',
+    'Mario'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Jogo',
+    'Quando que GTA 6 vai lançar?',
+    'Nunca'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Performance',
+    'Qual equipamento que garante vitoria em qualquer jogo?',
+    'Cadeira gamer'
 )
